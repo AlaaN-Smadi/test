@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlaaN-Smadi/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlaaN-Smadi/test/issues"
+  },
+  "homepage": "https://github.com/AlaaN-Smadi/test#readme",
+  "dependencies": {
+    "dots-config": "^2.1.0",
+    "express": "^4.17.1",
+    "jest": "^27.2.1",
+    "supertest": "^6.1.6"
+  }
+}
